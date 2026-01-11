@@ -3,3 +3,4 @@
 2. Run UV sync
 3. Get an API key
 4. Add .env file
+5. Set your API key (e.g. OPENAI_API_KEY, GEMINI_API_KEY, etc)
