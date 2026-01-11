@@ -1,0 +1,5 @@
+1. Install UV (To setup the development environment)
+2. Add the pyproject.toml
+2. Run UV sync
+3. Get an API key
+4. Add .env file
